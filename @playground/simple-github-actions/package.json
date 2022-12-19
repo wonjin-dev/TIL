@@ -1,0 +1,12 @@
+{
+  "name": "simple-github-actions",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "jest-environment-node"
+  }
+}
