@@ -17,3 +17,16 @@
     </a>
   </li>
 </ul>
+
+<details>
+  <summary>
+    <h3>TRENDS</h3>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40trends/react18">
+        New feature on React 18 (automatic batching, transition, differed value)
+      </a>
+    </li>
+  </ul>
+</details>
