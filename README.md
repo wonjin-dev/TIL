@@ -25,7 +25,12 @@
   <ul>
     <li>
       <a href="https://github.com/wonjin-dev/TIL/blob/master/%40trends/react18">
-        New feature on React 18 (automatic batching, transition, differed value)
+        New features on React 18
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40trends/2022CSS.md">
+        New features CSS in 2022
       </a>
     </li>
   </ul>
