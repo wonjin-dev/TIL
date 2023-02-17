@@ -68,6 +68,11 @@
   </summary>
   <ul>
     <li>
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/인터프리터 언어.md">
+        인터프리터 언어
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/README.md">
         Array
       </a>
