@@ -1,22 +1,53 @@
-### PLAYGROUND
+<details>
+  <summary>
+    <h3>PLAYGROUND</h3>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/tree/master/@playground/semantic-html">
+        HTML Semantic Elements
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/tree/master/@playground/simple-github-actions">
+        Create basic Github Action
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/tree/master/@playground/react-webpack">
+        Create web using WebPack & React without CRA
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/tree/master/@playground/begin-svelte-2023">
+        First practice Svelte
+      </a>
+    </li>
+  </ul>
+</details>
 
-<ul>
-  <li>
-    <a href="https://github.com/wonjin-dev/TIL/tree/master/@playground/semantic-html">
-      HTML Semantic Elements
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/TIL/tree/master/@playground/simple-github-actions">
-      Create basic Github Action
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/TIL/tree/master/@playground/react-webpack">
-      Create web using WebPack & React without CRA
-    </a>
-  </li>
-</ul>
+<details>
+  <summary>
+    <h3>SHORTS</h3>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/tree/master/@shorts/배열 생성을 활용한 구간 반복.md">
+        배열 생성을 활용한 구간 반복
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/tree/master/@shorts/구조 분해 할당을 이용한 변수 swap.md">
+        구조 분해 할당을 이용한 변수 swap
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/TIL/tree/master/@shorts/Set을 활용한 배열 내 같은 요소 제거.md">
+        Set을 활용한 배열 내 같은 요소 제거
+      </a>
+    </li>
+  </ul>
+</details>
 
 <details>
   <summary>
@@ -35,3 +66,13 @@
     </li>
   </ul>
 </details>
+
+<br>
+
+<ul>
+  <li>
+    <a href="https://github.com/wonjin-dev/TIL/blob/master/SEO.md">
+      SEO
+    </a>
+  </li>
+</ul>
