@@ -146,6 +146,11 @@
           DomContentLoaded vs load
         </a>
       </li>
+      <li>
+        <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/JS/type of vs instance of.md">
+          type of vs instance of
+        </a>
+      </li>
     </ul>
     <br>
     <li>WEB</li>
