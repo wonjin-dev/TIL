@@ -117,7 +117,12 @@
           text-decoration
         </a>
       </li>
-    </ul>  
+      <li>
+        <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/CSS/float.md">
+          float
+        </a>
+      </li>
+    </ul>
     <br>
     <li>JavaScript</li>
     <ul>
