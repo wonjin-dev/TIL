@@ -107,6 +107,11 @@
           auto
         </a>
       </li>
+      <li>
+        <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/CSS/not.md">
+          not()
+        </a>
+      </li>
     </ul>  
     <br>
     <li>JavaScript</li>
