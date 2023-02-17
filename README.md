@@ -68,7 +68,9 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/wonjin-dev/TIL/blob/master/%wiki/Array"><h3>Array</h3></a>
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%wiki/Array">
+        Array
+      </a>
         <ul>
           <li>
             <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/from.md">
@@ -77,7 +79,12 @@
           </li>
           <li>
             <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/join.md">
-              Array.from()
+              Array.join()
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/slice.md">
+              Array.slice()
             </a>
           </li>
         </ul>
