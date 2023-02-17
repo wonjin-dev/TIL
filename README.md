@@ -73,6 +73,11 @@
       </a>
     </li>
     <li>
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/React Memoization.md">
+        React Memoization
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/README.md">
         Array
       </a>
@@ -137,6 +142,7 @@
         </a>
       </li>
     </ul>
+    <br>
     <li>WEB</li>
     <ul>
       <li>
