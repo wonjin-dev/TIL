@@ -68,7 +68,7 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/wonjin-dev/TIL/blob/master/%wiki/Array">
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/README.md">
         Array
       </a>
         <ul>
@@ -85,6 +85,11 @@
           <li>
             <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/slice.md">
               Array.slice()
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/splice.md">
+              Array.splice()
             </a>
           </li>
         </ul>
