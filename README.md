@@ -78,6 +78,11 @@
       </a>
     </li>
     <li>
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/타입스크립트를 사용하는 이유.md">
+        타입스크립트를 사용하는 이유
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/README.md">
         Array
       </a>
