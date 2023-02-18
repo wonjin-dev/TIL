@@ -151,6 +151,11 @@
           type of vs instance of
         </a>
       </li>
+      <li>
+        <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/JS/스코프.md">
+          스코프
+        </a>
+      </li>
     </ul>
     <br>
     <li>WEB</li>
