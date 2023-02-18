@@ -201,4 +201,9 @@
       반복문 성능 비교
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/TIL/blob/master/자바스크립트 동작 원리.md">
+      자바스크립트 동작 원리
+    </a>
+  </li>
 </ul>
