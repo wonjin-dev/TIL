@@ -166,12 +166,12 @@
           호이스팅
         </a>
       </li>
-    </ul>
-    <li>
+      <li>
         <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/JS/클로져.md">
           클로져
         </a>
       </li>
+    </ul>
     <br>
     <li>WEB</li>
     <ul>
@@ -204,6 +204,11 @@
   <li>
     <a href="https://github.com/wonjin-dev/TIL/blob/master/자바스크립트 동작 원리.md">
       자바스크립트 동작 원리
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/TIL/blob/master/Interface vs Type.md">
+      Interface vs Type
     </a>
   </li>
 </ul>
