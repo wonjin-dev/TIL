@@ -183,6 +183,19 @@
   </ul>
 </details>
 
+<details>
+  <summary>
+    <h3>TROUBLE SHOOTING</h3>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/wonjin-dev/trouble-shooting/blob/main/%ED%81%AC%EB%A1%9C%EC%8A%A4%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95/safari(IOS)%EC%97%90%EC%84%9C%20outline%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC%20border-radius%EA%B0%80%20%EC%A0%81%EC%9A%A9%EB%90%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%98%A4%EB%A5%98.md">
+        safari(IOS)환경에서 outline에 border-radius가 적용되지 않는 오류
+      </a>
+    </li>
+  </ul>
+</details>
+  
 <br>
 
 <ul>
