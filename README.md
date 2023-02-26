@@ -83,7 +83,7 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/WEB/DOCTYPE.md">
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/DOCTYPE.md">
         DOCTYPE
       </a>
     </li>
