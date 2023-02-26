@@ -83,6 +83,11 @@
       </a>
     </li>
     <li>
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/WEB/DOCTYPE.md">
+        DOCTYPE
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/README.md">
         Array
       </a>
@@ -137,6 +142,11 @@
           float
         </a>
       </li>
+      <li>
+        <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/CSS/ellipsis.md">
+          ellipsis
+        </a>
+      </li>
     </ul>
     <br>
     <li>JavaScript</li>
@@ -172,15 +182,6 @@
         </a>
       </li>
     </ul>
-    <br>
-    <li>WEB</li>
-    <ul>
-      <li>
-        <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/WEB/DOCTYPE.md">
-          DOCTYPE
-        </a>
-      </li>
-  </ul>
 </details>
 
 <hr>
