@@ -193,6 +193,11 @@
         safari(IOS)환경에서 outline에 border-radius가 적용되지 않는 오류
       </a>
     </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/trouble-shooting/blob/main/env%EC%97%90%EC%84%9C%20undefined%20%ED%83%80%EC%9E%85%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md">
+        env에서 undefined 타입 제거하기
+      </a>
+    </li>
   </ul>
 
 <h3>COLUMN</h3>
