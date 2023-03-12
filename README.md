@@ -88,6 +88,11 @@
       </a>
     </li>
     <li>
+      <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/명령형 프로그래밍과 선언형 프로그래밍.md">
+        명령형 프로그래밍과 선언형 프로그래밍
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/wonjin-dev/TIL/blob/master/%40wiki/Array/README.md">
         Array
       </a>
@@ -231,6 +236,11 @@
   <li>
     <a href="https://1genius.tistory.com/5">
       StoryBook 활용
+    </a>
+  </li>
+  <li>
+    <a href="https://1genius.tistory.com/7">
+      React 컴포넌트, 표현식 vs 선언식
     </a>
   </li>
 </ul>
